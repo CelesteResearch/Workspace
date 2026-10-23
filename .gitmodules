@@ -1,0 +1,168 @@
+[submodule "Shared"]
+	path = Shared
+	url = ../Shared.git
+[submodule "Unity"]
+	path = Unity
+	url = ../Unity.git
+[submodule "Godot"]
+	path = Godot
+	url = ../Godot.git
+[submodule "Tools"]
+	path = Tools
+	url = ../Tools.git
+[submodule "AdventureHelper"]
+	path = Mods/AdventureHelper
+	url = ../AdventureHelper.git
+[submodule "AnonHelper"]
+	path = Mods/AnonHelper
+	url = ../AnonHelper.git
+[submodule "BackgroundSwitch"]
+	path = Mods/BackgroundSwitch
+	url = ../BackgroundSwitch.git
+[submodule "Batteries"]
+	path = Mods/Batteries
+	url = ../Batteries.git
+[submodule "BrokemiaHelper"]
+	path = Mods/BrokemiaHelper
+	url = ../BrokemiaHelper.git
+[submodule "CanyonHelper"]
+	path = Mods/CanyonHelper
+	url = ../CanyonHelper.git
+[submodule "CavernHelper"]
+	path = Mods/CavernHelper
+	url = ../CavernHelper.git
+[submodule "CherryHelper"]
+	path = Mods/CherryHelper
+	url = ../CherryHelper.git
+[submodule "CollabUtils2"]
+	path = Mods/CollabUtils2
+	url = ../CollabUtils2.git
+[submodule "CommunalHelper"]
+	path = Mods/CommunalHelper
+	url = ../CommunalHelper.git
+[submodule "Crystalline"]
+	path = Mods/Crystalline
+	url = ../Crystalline.git
+[submodule "EeveeHelper"]
+	path = Mods/EeveeHelper
+	url = ../EeveeHelper.git
+[submodule "EmHelper"]
+	path = Mods/EmHelper
+	url = ../EmHelper.git
+[submodule "ExtendedVariants"]
+	path = Mods/ExtendedVariants
+	url = ../ExtendedVariants.git
+[submodule "FactoryHelper"]
+	path = Mods/FactoryHelper
+	url = ../FactoryHelper.git
+[submodule "FancyTileEntities"]
+	path = Mods/FancyTileEntities
+	url = ../FancyTileEntities.git
+[submodule "FemtoHelper"]
+	path = Mods/FemtoHelper
+	url = ../FemtoHelper.git
+[submodule "FrostHelper"]
+	path = Mods/FrostHelper
+	url = ../FrostHelper.git
+[submodule "FurryHelper"]
+	path = Mods/FurryHelper
+	url = ../FurryHelper.git
+[submodule "GravityHelper"]
+	path = Mods/GravityHelper
+	url = ../GravityHelper.git
+[submodule "HonlyHelper"]
+	path = Mods/HonlyHelper
+	url = ../HonlyHelper.git
+[submodule "InputHistory"]
+	path = Mods/InputHistory
+	url = ../InputHistory.git
+[submodule "IsaGrabBag"]
+	path = Mods/IsaGrabBag
+	url = ../IsaGrabBag.git
+[submodule "JackalHelper"]
+	path = Mods/JackalHelper
+	url = ../JackalHelper.git
+[submodule "JungleHelper"]
+	path = Mods/JungleHelper
+	url = ../JungleHelper.git
+[submodule "LuaCutscenes"]
+	path = Mods/LuaCutscenes
+	url = ../LuaCutscenes.git
+[submodule "MaxHelpingHand"]
+	path = Mods/MaxHelpingHand
+	url = ../MaxHelpingHand.git
+[submodule "MemorialHelper"]
+	path = Mods/MemorialHelper
+	url = ../MemorialHelper.git
+[submodule "OutbackHelper"]
+	path = Mods/OutbackHelper
+	url = ../OutbackHelper.git
+[submodule "PandorasBox"]
+	path = Mods/PandorasBox
+	url = ../PandorasBox.git
+[submodule "Randomizer"]
+	path = Mods/Randomizer
+	url = ../Randomizer.git
+[submodule "SafeRespawnCrumble"]
+	path = Mods/SafeRespawnCrumble
+	url = ../SafeRespawnCrumble.git
+[submodule "Sardine7"]
+	path = Mods/Sardine7
+	url = ../Sardine7.git
+[submodule "ShroomHelper"]
+	path = Mods/ShroomHelper
+	url = ../ShroomHelper.git
+[submodule "SorbetHelper"]
+	path = Mods/SorbetHelper
+	url = ../SorbetHelper.git
+[submodule "SpringCollab2020"]
+	path = Mods/SpringCollab2020
+	url = ../SpringCollab2020.git
+[submodule "StrawberryJam"]
+	path = Mods/StrawberryJam
+	url = ../StrawberryJam.git
+[submodule "VivHelper"]
+	path = Mods/VivHelper
+	url = ../VivHelper.git
+[submodule "VortexHelper"]
+	path = Mods/VortexHelper
+	url = ../VortexHelper.git
+[submodule "XaphanHelper"]
+	path = Mods/XaphanHelper
+	url = ../XaphanHelper.git
+[submodule "TAS"]
+	path = Mods/TAS
+	url = ../TAS.git
+[submodule "BounceHelper"]
+	path = Mods/BounceHelper
+	url = ../BounceHelper.git
+[submodule "ContortHelper"]
+	path = Mods/ContortHelper
+	url = ../ContortHelper.git
+[submodule "DisposableTheo"]
+	path = Mods/DisposableTheo
+	url = ../DisposableTheo.git
+[submodule "DJMapHelper"]
+	path = Mods/DJMapHelper
+	url = ../DJMapHelper.git
+[submodule "FlaglinesAndSuch"]
+	path = Mods/FlaglinesAndSuch
+	url = ../FlaglinesAndSuch.git
+[submodule "LunaticHelper"]
+	path = Mods/LunaticHelper
+	url = ../LunaticHelper.git
+[submodule "MoreDasheline"]
+	path = Mods/MoreDasheline
+	url = ../MoreDasheline.git
+[submodule "YetAnotherHelper"]
+	path = Mods/YetAnotherHelper
+	url = ../YetAnotherHelper.git
+[submodule "CollabLobbyUI"]
+	path = Mods/CollabLobbyUI
+	url = ../CollabLobbyUI.git
+[submodule "PrismaticHelper"]
+	path = Mods/PrismaticHelper
+	url = ../PrismaticHelper.git
+[submodule "SpirialisHelper"]
+	path = Mods/SpirialisHelper
+	url = ../SpirialisHelper.git
